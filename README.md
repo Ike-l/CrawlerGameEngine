@@ -2,6 +2,11 @@
 
 Welcome to the CrawlerGameEngine, a UI framework for a custom renderer. This engine facilitates the manipulation of rendering components, offering an interactive experience for shape and light management.
 
+Conventions:
+
+    I use UpperCamelCase when defining "public" methods and properties
+    I use the namespace "CRAWLER_GAME_ENGINE"
+
 Interface Components
 
 Shape Creation
